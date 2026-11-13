@@ -1,0 +1,5 @@
+﻿variable,alternativa,coef,p,delta_AIC
+Edad (por 10 años),término cuadrático,-0.039,0.379,1.192
+PCR (por 1 mg/L),término cuadrático,0.0,0.800,1.938
+PAS (por 10 mmHg),término cuadrático,0.039,0.036,-1.948
+PCR,log(PCR) en vez de PCR,0.17,0.163,1.548

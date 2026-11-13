@@ -1,0 +1,19 @@
+﻿g(t),variable,rho,chi2,p
+log(t),Biológico A vs Convencional,0.0,1.119,0.290
+log(t),Biológico B vs Convencional,-0.0,6.83,0.009
+log(t),Edad (por 10 años),0.032,0.266,0.606
+log(t),PCR (por 1 mg/L),0.013,0.025,0.874
+log(t),PAS (por 10 mmHg),-0.001,0.001,0.980
+log(t),Adherencia alta vs baja,0.031,0.188,0.664
+log(t),Biológico A × log(t),0.016,0.848,0.357
+log(t),Biológico B × log(t),-0.076,8.323,0.004
+log(t),GLOBAL,,11.28,0.186
+rango de t,Biológico A vs Convencional,0.032,2.023,0.155
+rango de t,Biológico B vs Convencional,-0.068,2.481,0.115
+rango de t,Edad (por 10 años),0.072,1.313,0.252
+rango de t,PCR (por 1 mg/L),0.049,0.496,0.481
+rango de t,PAS (por 10 mmHg),0.017,0.169,0.681
+rango de t,Adherencia alta vs baja,0.051,0.51,0.475
+rango de t,Biológico A × log(t),0.05,1.752,0.186
+rango de t,Biológico B × log(t),-0.129,4.755,0.029
+rango de t,GLOBAL,,11.823,0.159

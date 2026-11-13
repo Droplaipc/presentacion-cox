@@ -1,0 +1,15 @@
+﻿tratamiento,t (meses),HR,HR_inf,HR_sup
+Biológico A (anti-TNF),3,0.022,0.006,0.081
+Biológico A (anti-TNF),6,0.081,0.031,0.207
+Biológico A (anti-TNF),12,0.297,0.162,0.544
+Biológico A (anti-TNF),24,1.093,0.766,1.559
+Biológico A (anti-TNF),36,2.342,1.66,3.303
+Biológico A (anti-TNF),48,4.022,2.656,6.089
+Biológico A (anti-TNF),60,6.117,3.719,10.06
+Biológico B (anti-IL-6/IL-17),3,1.47,0.836,2.583
+Biológico B (anti-IL-6/IL-17),6,1.107,0.73,1.678
+Biológico B (anti-IL-6/IL-17),12,0.833,0.594,1.169
+Biológico B (anti-IL-6/IL-17),24,0.627,0.43,0.915
+Biológico B (anti-IL-6/IL-17),36,0.531,0.34,0.83
+Biológico B (anti-IL-6/IL-17),48,0.472,0.284,0.784
+Biológico B (anti-IL-6/IL-17),60,0.431,0.246,0.754
